@@ -1,5 +1,5 @@
 # Implementation of Encryption Algorithms
-DES (NIST Standard FIPS 46-3)
+DES
 
 3DES
 
