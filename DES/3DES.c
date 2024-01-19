@@ -1,5 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
+
 int m[64],mc[64];	// store the message
 int l[32],r[32];	//left and right part of message
 int r1[32],l1[32],rc[32];	// middle value of l and r
