@@ -1,7 +1,5 @@
 # Implementation of Encryption Algorithms
-DES
-
-3DES
+DES, 3DES
 
 RSA
 
